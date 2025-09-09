@@ -1,0 +1,7 @@
+{
+  "name": "AI Real-Time Translator",
+  "description": "A real-time speech translation app for Japanese and Traditional Chinese conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
